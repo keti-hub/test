@@ -1,0 +1,75 @@
+.body {
+	background-color: #efefef;
+}
+.top-header {
+	background-color: grey;
+	padding:10px 0;
+	
+}
+
+
+
+.top-header-ul li {
+	display: inline;
+	padding: 0 6px;
+}
+
+
+.top-header-ul img {
+	height: 20px;
+}
+
+
+.middle-header {
+	padding: 10px 0;
+    background-color: #a5a5a5;
+}
+
+.middle-header img {
+	height: 70px;
+}
+
+.middle-header h2 {
+
+}
+
+.middle-header p {
+
+}
+
+.middle-header button {
+	color: white;
+	border-radius: 16px;
+	padding: 3px 5px;
+	float: right;
+}
+
+
+.middle-header-info {
+	display: inline-block;
+}
+
+
+.main-header {
+	padding: 10px 0;
+	background-color: white;
+}
+
+.navbar-nav li {
+    margin: 0 10px;
+    border-bottom: 3px solid transparent;
+    transition: border-bottom .2s ease;
+}
+.navbar-nav li a {
+    font-size: 17px;
+    color: #1a332d;
+    text-decoration: none;
+}
+
+.main-header img {
+	height: 20px;
+}
+
+.navbar {
+	padding: 0;
+}
